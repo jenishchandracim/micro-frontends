@@ -9,7 +9,7 @@ This application has been built using NodeJS and does the following:
 - Stores images
 - Stores the whole content
 
-# Getting started
+## Getting started
 
 1. Clone the repo
 2. `yarn` - to install all the dependencies

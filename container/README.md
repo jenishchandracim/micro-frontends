@@ -10,7 +10,7 @@ This application has been built using React and does the following:
 - Render the Navigation Bar
 - Uses React Router to select a micro frontend to render onto the page
 
-# Getting started
+## Getting started
 
 1. Clone the repo
 2. `yarn` - to install all the dependencies
@@ -21,6 +21,6 @@ The app will start on `PORT=3000`
 
 To successfully run the whole application, this container application is dependent on the following:
 
-- The [`content`](https://github.com/jenishchandracim/micro-frontends/content) server
-- The [`browse`](https://github.com/jenishchandracim/micro-frontends/browse) micro frontend to enable browsing
-- The [`restaurant-order`](https://github.com/jenishchandracim/micro-frontends/restaurant-order) micro frontend to enable orders
+- The [`content`](https://github.com/jenishchandracim/micro-frontends/tree/master/content) server
+- The [`browse`](https://github.com/jenishchandracim/micro-frontends/tree/master/browse) micro frontend to enable browsing
+- The [`restaurant-order`](https://github.com/jenishchandracim/micro-frontends/tree/master/restaurant-order) micro frontend to enable orders

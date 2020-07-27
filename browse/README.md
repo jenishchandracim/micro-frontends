@@ -11,7 +11,7 @@ This application has been built using React and does the following:
 - Enables filtering of those restaurants
 - Displays all restaurants on the screen
 
-# Getting started
+## Getting started
 
 1. Clone the repo
 2. `yarn` - to install all the dependencies
@@ -22,4 +22,4 @@ The app will start on `PORT=3001`
 
 To successfully run the whole application, this browse application is dependent on the following:
 
-- The [`content`](https://github.com/jenishchandracim/micro-frontends/content) server
+- The [`content`](https://github.com/jenishchandracim/micro-frontends/tree/master/content) server
